@@ -1,0 +1,3 @@
+Pour conclure , ce CTF nous a permis de vivre une expérience complète et réaliste de la cybersécurité offensive et défensive. À travers la mise en place d'environnements vulnérables, l'exploitation de failles critiques et la phase de sécurisation, nous avons compris que la sécurité ne repose pas uniquement sur des outils, mais surtout sur une méthodologie rigoureuse et une analyse réfléchie. Cette simulation nous a appris à penser comme un attaquant tout en agissant comme un défenseur, à anticiper les risques, corriger les
+
+ erreurs et renforcer les systèmes. Les compétences acquises au cours de ce projet constituent une base solide pour notre avenir professionnel en sécurité informatique. Merci pour votre attention.
